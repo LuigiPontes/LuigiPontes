@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**LuigiPontes/LuigiPontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Luigi Pontes
 
-Here are some ideas to get you started:
+## Estudante de Análise e Desenvolvimento de Sistemas | Auxiliar de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🥷 Sobre mim
+
+Desde cedo, sempre tive uma paixão por tecnologia e inovação, o que me levou a buscar uma carreira onde pudesse aplicar e expandir meus conhecimentos na área de sistemas de informação. Ao ingressar no curso de Análise de Sistemas, estou mergulhando em um universo repleto de desafios e oportunidades de aprendizado.
+
+Estou sempre em busca de novos desafios que me permitam melhorar as minhas habilidades e crescer profissionalmente. Gosto de me manter atualizado e aprender sobre novas tecnologias, sempre pensando em como posso aplicar esse conhecimento em projetos inovadores e criativos.
+## 🎯 Objetivo
+
+✨ Desenvolver minhas habilidades em metodologias ágeis.
+ <br /> 
+📖 Aprender novas linguagens de programação e tecnologias de design.
+ <br /> 
+⚙ Acrescentar projetos no meu portfólio.
+
+## 💻 Habilidades 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,git)
+## 📲 Contatos
+[![My Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luigi-veriano-pignoni-pontes-1aab32221/)
+[![My Links](https://skillicons.dev/icons?i=gmail)](mailto:luigiverianopontes@gmail)
