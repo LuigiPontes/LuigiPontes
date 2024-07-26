@@ -12,7 +12,7 @@ Estou sempre em busca de novos desafios que me permitam melhorar as minhas habil
 
 ✨ Desenvolver minhas habilidades em metodologias ágeis.
  <br /> 
-📖 Aprender novas linguagens de programação e tecnologias de design.
+📖 Aprender novas tecnologias e ferramentas.
  <br /> 
 ⚙ Acrescentar projetos no meu portfólio.
 
